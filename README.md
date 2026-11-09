@@ -8,15 +8,15 @@ The directory 'data' contains trial-by-trial data from the number adaptation exp
 
 The data file columns provide the following information.
 
-refstim = reference stimulus number (1-3); these are the three numbered
-          green points in Figures 1b and 1c
-nref = number of dots in reference stimulus
-ntest = number of dots in test stimulus
-rref = radius of reference stimulus (in pixels)
-rtest = radius of test stimulus (in pixels)
-response = observer's judgement of which stimulus had more dots
-           1 = reference stimulus, 2 = test stimulus
-rt = reaction time (in seconds)
+>refstim = reference stimulus number (1-3); these are the three numbered
+>          green points in Figures 1b and 1c
+>nref = number of dots in reference stimulus
+>ntest = number of dots in test stimulus
+>rref = radius of reference stimulus (in pixels)
+>rtest = radius of test stimulus (in pixels)
+>response = observer's judgement of which stimulus had more dots
+>           1 = reference stimulus, 2 = test stimulus
+>rt = reaction time (in seconds)
 
 Stimulus sizes are given in pixels, so it is useful to know (as reported in the paper) that the pixel size was 0.250 mm and the viewing distance was 84 cm, so each pixel subtended 0.0171 degrees of visual angle.
 
