@@ -2,7 +2,7 @@
 
 Supporting information for:
 
->DeSimone, K., Kim, M., & Murray, R. F. (2020). Number adaptation can be dissociated from density adaptation. *Psychological Science, 31*(11), 1470-1474.
+>[DeSimone, K., Kim, M., & Murray, R. F. (2020).](https://doi.org/10.1177/0956797620956986) Number adaptation can be dissociated from density adaptation. *Psychological Science, 31*(11), 1470-1474.
 
 The directory 'data' contains trial-by-trial data from the number adaptation experiment. Each file contains data for a single subject in a single adaptation condition. The files are named num_A_B.txt, where A is the subject code (e.g., S1) and B is a flag (0 or 1) to indicate whether the condition included adaptation (1) or was a baseline condition with no adaptation (0).
 
